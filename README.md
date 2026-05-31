@@ -5,3 +5,6 @@ Guía practica de instrucciones de github.
 Nombre: Aracely Michel Tito Barrancos
 Carrera: Ingeniera de Sistemas 
 Materia: Programacion avanzada
+
+# PERFIL
+foto: ![Foto avatar](images/foto.jpg)
